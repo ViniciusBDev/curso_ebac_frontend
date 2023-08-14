@@ -1,0 +1,19 @@
+
+header {
+    padding: 16px;
+    background-color: #4c096b;
+    color: #fff ;
+}
+
+.container{
+    background-color: #ffffff;
+    color: black;
+}
+
+form button {
+    display: block;
+    width: 250px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
